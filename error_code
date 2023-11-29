@@ -1,0 +1,11 @@
+;--------------------------------
+; return code
+; 0 install success
+; 1 user cancel
+; 11 failed to install vc runtime
+; 12 failed to start service
+; 13 outside system
+; 14 installer is running
+; 15 need to run as admin
+; 16 program is running
+;--------------------------------
